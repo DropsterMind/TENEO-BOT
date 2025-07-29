@@ -76,7 +76,7 @@ socks5://127.0.0.1:9050
 ## 🚀 Menjalankan Bot
 
 ```bash
-python setup.py #or python3 setup.py
+python setup.py #or python3 bot.py
 ```
 
 Lalu pilih mode proxy saat diminta:
