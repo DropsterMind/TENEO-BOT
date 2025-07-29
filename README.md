@@ -26,8 +26,8 @@ cd TENEO-BOT</code></pre>
 pip install -r requirements.txt</code></pre>
 
   <h2 class="emoji">🧾 Konfigurasi Bot</h2>
-  <h3>5. ✅ Buat File <code>nano tokens.json</code></h3>
-  <p>Isi file seperti ini:</p>
+  <h3>5. ✅ Buat File <code>tokens.json</code></h3>
+  <p>Caranya ketik perintah: nano tokens.json kemudian isi file seperti ini:</p>
   <pre><code>[
   {
     "Email": "emailkamu@gmail.com",
@@ -87,6 +87,3 @@ socks5://127.0.0.1:9050</code></pre>
     <li>Ingin bot jalan 24 jam? Gunakan VPS</li>
     <li>Jika pakai Linux atau Termux, gunakan <code>screen</code> atau <code>tmux</code></li>
   </ul>
-
-</body>
-</html>
